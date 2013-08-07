@@ -8,4 +8,4 @@ test:
 
 staging:
   adapter: mysql2
-  database: spreedemo
+  database: acc_spreedemo
