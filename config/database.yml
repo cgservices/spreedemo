@@ -1,0 +1,11 @@
+development:
+  adapter: mysql2
+  database: dev_spreedemo
+
+test:
+  adapter: mysql2
+  database: test_spreedemo
+
+staging:
+  adapter: mysql2
+  database: spreedemo
