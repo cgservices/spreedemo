@@ -36,6 +36,10 @@ gem 'jquery-rails'
 # To use debugger
 # gem 'debugger'
 
-
+# Spree
 gem 'spree', github: 'spree/spree', branch: '2-0-stable'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-0-stable'
+
+group :development do
+  gem 'rdeploy', '>= 0.1.9', :git=> "git@github.com:cgservices/rdeploy.git"
+end
