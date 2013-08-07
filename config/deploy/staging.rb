@@ -25,7 +25,7 @@ set :normalize_asset_timestamps, false
 # Database config
 set :database_config, {
     :adapter => "mysql2",
-    :username => "root",
+    :username => "spree",
     :host => "10.0.0.216",
     :development => "dev_#{application}",
     :test => "test_#{application}",
