@@ -7,5 +7,10 @@ test:
   database: test_spreedemo
 
 staging:
-  adapter: mysql2
-  database: acc_spreedemo
+    adapter: mysql2
+    encoding: utf8
+    reconnect: false
+    database: acc_spreedemo
+    username: spree
+    password: m2XvpKeYaBJK9EK5
+    host: 10.0.0.216

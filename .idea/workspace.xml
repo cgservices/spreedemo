@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/deploy.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spreedemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375907283740" ignored="false" />
-    <file path="/database.yml" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908640883" ignored="false" />
+    <file path="/database.yml" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908766829" ignored="false" />
     <file path="/.ruby-gemset" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375878598878" ignored="false" />
-    <file path="/Dummy.txt" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908415716" ignored="false" />
+    <file path="/Dummy.txt" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908666855" ignored="false" />
     <file path="/deploy.rb" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375907638394" ignored="false" />
     <file path="/staging.rb" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908260324" ignored="false" />
+    <file path="/.gitignore" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908953975" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,10 +35,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <file leaf-file-name=".ruby-version" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.ruby-version">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="153" selection-end="153" vertical-scroll-proportion="0.17123288">
+            <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".ruby-gemset" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ruby-gemset">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="9" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,6 +78,7 @@
         <option value="$PROJECT_DIR$/config/deploy.rb" />
         <option value="$PROJECT_DIR$/config/environments/staging.rb" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -477,7 +489,11 @@
       <created>1375908419124</created>
       <updated>1375908419124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding deploy env">
+      <created>1375908671504</created>
+      <updated>1375908671504</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -580,23 +596,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.ruby-gemset">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="47" selection-start="633" selection-end="633" vertical-scroll-proportion="0.46232876">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ruby-version">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -643,9 +645,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="451" selection-end="451" vertical-scroll-proportion="0.2739726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="153" selection-end="153" vertical-scroll-proportion="0.17123288">
+        <state line="14" column="30" selection-start="257" selection-end="257" vertical-scroll-proportion="0.23972602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ruby-version">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ruby-gemset">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="9" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
