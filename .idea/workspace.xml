@@ -2,8 +2,705 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/staging.rb" afterPath="$PROJECT_DIR$/config/environments/staging.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/FontAwesome-34b622eb5a940c22cc2a693d5716e04f.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ad-436acdefbb813b6ebb2b499844481057.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/add-to-cart-f768ad84f8d7763de8eb96777c3e683b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/add-to-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/address_states-bdfd957a0676a2a1af6053b35ad618da.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/address_states.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ae-7dc7059794a956fe6951859b3d6ff672.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/af-bf6bdb2d317add035eb072cba1c8e4a5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/af.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ag-8549f498a597dd472e0d3f73c07d7bc0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ai-6bec47b777e728e8f3851193e7f3bbc2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ai.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/al-55e45c8f7b82362d0f09db1cbb67ee0a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/al.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all-0c3cce0be14e396d2a89a5696655045c.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all-54db21f3e0356f34d5b59c02271c1087.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all-853fef6bca8f3d3ab543f07e89dba70b.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all-dfd17eb400897b936c2593652d2872fb.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/am-a3247bbe4833e663d65219f919631792.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/am.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/american_express-8b808e36335806433521c91b59cfdba9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/american_express.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/amex_cid-505489dcd41982a4cf80e994ba5d8f5a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/amex_cid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/an-9c22c2a172708d303da7e970b16c0cae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/an.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/animated-overlay-2346318938bcfaca01e27a85228e5b32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ao-0dc01164d99b25abe36e0085d0cd38db.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-675b45d579877c9ebc9d822b2115e34c.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-7137ba97844fb7a3be7e6d4fc236b39b.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ar-ce3611ebad6179a051d8bd57d8302538.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/as-9a08e7750de71331b760b8011a9018bc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/as.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/at-4b33a3e3c4c279a5d0749e755410f3f5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/at.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/au-07f154ae5e78edb9281e52f3dffd310f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/au.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/aw-46158a4ac8c1dbadc81cc61eb9b1c830.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/aw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ax-b8697b0c4f96eefa41d296e297b4cfef.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/az-49780c562732bd349a7efcfb97395f72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/az.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ba-901e64de975982edb2bdb507ba824434.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bb-888cb245d1703476780444f1dbf186b7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bd-ba8325dd66b721ac7873dff08a46ce4e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/be-b4e8c8c9ec058118f32efecb326ea0cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bf-aeddd9321ee8d3c174cf969f25a50fee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/bg-8116b7f1789d8cb86906d021a4bd603f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bg-ea2e7fb6e0101b4b774ee77017ca228b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bh-7bfb5ff7513a69f2604fb0bb2ff0e309.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bi-c21781f8d4cb5553f70aceb73f4903c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bj-8d137dc0d6c87a24aaba2ffc6fdea9b0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bm-bb097d58aea7f0b8bf47bc253d1b57b5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bn-f4c8f111dd7fc1a2a7606879925370ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bo-4fd137c7bcb6e2342e94413431d80366.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/br-7ccb5e6ab758d32d6250886b2fb2fdd8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/br.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bs-9ba05168caa46f8b2e081fb1cdfd01ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bt-576b2c3b8309230e0ae6015fc92af8ed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.formalize/button-40676b8cc9d8914afd257890326ebd90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.formalize/button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bv-a25f6824f425d8c490bdb59e6f1adb7a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bw-e36776e2d1650d63c0e93b1d4620843c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/by-dc927fd80ae5404102b34a9929dce2a9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/by.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bz-e23455dafcee162c0439ddad72297917.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/bz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ca-5dd786123ca79ac991e11d8791783e17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datepicker/cal-b073ab250b5f102ac1918650c70c7076.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/datepicker/cal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/cart-792df97e117d06dac8fd2872e7347daf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/catalonia-f2156d01d241807440c40cbb26f39018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/catalonia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cc-6160797cae40e6393580ecfbde423a59.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cd-7921fd5e2eb3c7bc20c24eed759e5bb9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cf-18f05b871eb531d53416478920869a1a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cg-eecd3f1da50aa1bfbfcda130c2f2177a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ch-10b7a326511bee8e0dfd770228d93a3c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/checkout-78098a62cc2b30a846d521f8fdabdfc0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/checkout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ci-e54e6070fb5768ffb6f33ffde31af6c6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/cirrus-c252fc1f78e877f0123c71c5938a0c4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/cirrus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ck-a84e3884a7ffa1b2e7005df45cfbbc08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cl-420a0571e899242de8604e3872bb83df.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cm-a1b0210ed660495cd438a5248911e7cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cn-bd71543c046f54c5dee370da6a8fb7c8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/co-74c876debece6e46f3f4b70f149a9235.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/co.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cr-8df267da50101b943d08dcebec66173e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/credit_card-ea1cfb258711cf4f7043e6ad9003d104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/credit_card.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cs-54824e0fbdf7e3b47d446907c45a62c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cu-a9cffd96908f756c00ba8c873ef15dc1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cv-1b2d450479ee6615dae0e8479ee3f786.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cx-b6ccdf5cf23a320cdc38ae7322b89593.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cy-8c90b4bed3f89c3c2872e273ebea47fa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cz-091e94f42312a5066317a97abe59aaf0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/cz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/d-427ee69562a7dbb1a71138c7a76ad88b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/de-e127696f73180fbe9dd427c5388620c2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/delete-52b3ece16ba4467c61794035b4f42eb5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/delta-eaee2e998f84be1f94cdb0d1a9bacd29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/delta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/diners_club-61326ca8e3ffd1b0a48efd66a56da5cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/diners_club.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/directdebit-af5b4ba375563f10d25a90b9914bf493.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/directdebit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/discover-6e6d5ae12f0206b4ded41cb36a25bf7b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/discover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/discover_cid-cb481b8e9db492d3e72ed4ef70fa77dd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/discover_cid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dj-38c6118c4eb8314496987505e3a88693.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dk-25015b9ae5ce4d8c9d21292cb74d8618.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dm-f11b37908a12786837b896eef71ebf2d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/do-2a6cbbb25d4e52055026b5a74d112f87.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/do.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/dot_for_ie-69d37cd6a21e558b260e989442a0f2ff.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/dot_for_ie.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dz-43fa2f28af610323470455ee25c1f31f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/dz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ec-74ba2431d46ac7ada01ef86a3e3a6ce8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/orders/edit_form-eeea9c0c5e0db2e7254ee777a7ac47c1.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/orders/edit_form.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ee-98343d857c93b9ade3bbdf6e8b0d4100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/eg-ff22f1c7dd6e4e306f2b2a12ebc6d289.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/eg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/egold-f920dd53f07112e45a2631d5d5da093a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/egold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/eh-7e466035badb1a62fccde189d4bac6c3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/eh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/england-4095ddb1e854efe7af0566712278aec3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/england.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/er-b6ae386558258485a3681d80fd0017ef.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/er.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/es-bf395a9192c00332dd4313a70cd9821e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/es.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/et-405d64290f3428dafbb11cdf5b5d0d56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/et.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/europeanunion-4344584c7f8b90a21c7ff1f71b54df7c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/europeanunion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fam-6803b5012d49e5d35c992414570b44f4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/favicon-082d240326e24cf3d7029949a80c3ed8.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fi-2485631c76cb69461b57e042d180adff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fj-aaf9fae834d1979f2412acdd4a48415d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fk-4cdc32a4d04f2e691da165414c5b3566.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fm-4766f4e592eb320a6b65322246269818.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fo-f3fee5620cf751541a4911dd4551fed4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-6914fb81841b5461bea19bf14b754cd4.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-8a591ae25ebadc15850a9b5746a2ef58.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-943658300c04a11f164d174afb37854e.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fr-4071d2bffc62f116b44f1bcadd43a78b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/fr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ga-8d098916313acfbd886ab77475b2effe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ga.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gb-7b3ac34f0265005c44a77090ba15dfcd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gd-cc70ecbed5477c2a23e2d1096f9874fc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ge-fc9bfc7f496353294d02fa0fb1d014aa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gf-4071d2bffc62f116b44f1bcadd43a78b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gh-f8ee0f10df045889e5cb8329dd33c61b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gi-cb69c0d5e59ddeb5dd9e0a5bcf5f83bc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gl-1ab7012ff24d0dfd73d6f5b606256fda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gm-d150b5567d9d7b9045984c5434bdeba6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gn-c873ae3b63f99389bb95867888535284.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gp-7a2ce84f923f8857d60ea7a85cc4bd48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gq-f926152727bcdec6c71b3a86cf794985.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gr-98cc6e7130757350ea2c5053b742e225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gs-02eb8131b922509a09bf96ee9c0d7738.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gt-f05a12e81e1c3e78ee538f3576039b81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gu-c0b55bca6cee33134e87c71eb8b8f46f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gw-d37a5829fa7fa39cb19d6544a4864894.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gy-af75bb1aa8dd081f0217b3bc0bb21998.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/gy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/help-0e0d01c43a29aab2750041685cb51df2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/help.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hk-a727c785ab1350059ff130b4207be4cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hm-07f154ae5e78edb9281e52f3dffd310f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hn-d24c21dae45892e0e48be368ca782fc3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hr-b40f84655afca4737c5c125f04b62d32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ht-9195f47fc88b2fac759029cd2d7653e7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ht.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hu-04bd80aa21f79363e70436d0f0de1c94.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/hu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/id-5f20687d080af56f703446bd0d01b75e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/id.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ie-53037195e205135c286f3ed5f8985df5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/il-3739079784effb892df9c1f51378c095.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/il.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/important-7437f5f45bd73e6b76fece09d461fc35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/important.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/in-d38839d7e493de69e85091bcc881f413.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/in.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/info-a0e27fb6c494c11c6fe5b5633cc716f9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/io-a5abfdac21ca347eec85b449f995aa70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/io.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/iq-b2f99d9b30bffd0ce0f9fe47d5dc6a31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/iq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ir-9096f437978ba07ecb136613d3f8a25a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ir.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/is-e19f1f38d6c8b5af41f0b0943d8a88ea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/is.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/it-9fadf2ca9bb6ac2f5a6988e28a3a8cb6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/it.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ja-8d3d58de28f810f8da8423efe6c395b3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ja.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/jm-98043bae9ea00c04bbf0f5eee3cda1f8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/jm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/jo-4409b7833703c113b8ec04f66c4128d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/jo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ke-20a9cb9fb188d1119b72feb324d60acd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ke.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kg-1a2e39c15a588cb359ee44ec9439ac00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kh-3a6122970539e76b7a281a16de2a63ac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ki-9eb743caeceda6f5816079ca4091276c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/km-db8c7bf5ce7873e194002742dba2388f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/km.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kn-1cdbbb8f1b0329e79f60693c7dea048e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kp-5ad0a43cf4b3fd5af154d8feee2e8724.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kr-959db45d60c4eef6b971aaf879622eb1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kw-0be4cb59dd2db3e185b0820c0844f3f1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ky-ba91fc3e43cdc56b5127573369ef6c2e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ky.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kz-4f2bc8f9e5e4a37761895b39ef5a1c7b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/kz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/la-628b7177fcd9a763cc0356eba8a3689a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/la.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/large-30758674a12ea365cd5316bde2d017fa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/large.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lb-a9c2a91a139dd79615eb476fdf43b667.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lc-bc3b03c6cffdbb656bd687fe85a60c05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/li-741c7799bac36907ba4a4747ac638b44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lk-8527f5995a142c8aa84547bf60355f7f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lr-ffad302e1517921b4e0262cd924dd273.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ls-75ce2029731743fc6b392d5be4b09d5f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lt-44b1c7977cec99301ab257d8d2d3d4be.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lu-2e25718c6df33a8970c7b95643c5de3b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lv-66c2b591352de9cfad7f6f8708f0d09d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/lv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ly-3c116c313d64b657d432bc64dcd3ff57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ma-a414da4237e19b32697db3c11f96f6ac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/maestro-2d3139ee6549e14c5509ad714f76ef5b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/maestro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/master-26440d9abaafbdb3ee76e8f5d5150cb8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/master.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/master_cid-cf7e59e9be7da54dad15fea1f8fc3341.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/master_cid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mc-89e4967aa84d6b222daaa06e8f337fe6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/md-b649ad63a23cd391bbbe0abb9e1d0975.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/md.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/me-2a35c45f588b69bb7f631d32cab115c5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/me.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mg-b8cf1fbd9a14827734160d353ee8268a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mh-523e8886a5168d1eaf39c6fcefb9aff7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/mini-f80f3e2c0ebaef426cae05633fa33876.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mk-a78ae298311d15c2ded70609104b95b6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ml-d5849ff0c64e1bf9333dc9318b630a1a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ml.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mm-3181ca6334b454a29243e497fe03b300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mn-6dd65db76e98b98ea43c5b86957323de.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mo-a5d9485fd4c8e458a8b65a11fbe191e8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mp-ffc033c653a99494b00d85efef8fb357.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mq-76b13168eb592b24e774794f6908bcde.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mr-4570a5756b322eda34e19b8b5bf6290f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ms-92077de69de627853c3802921fc76a61.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mt-2e465794fe976fe4925008114fbbb7a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mu-d1bdbe38a3097914520e5ec6326a1e6b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mv-5c4b658a6c5edb27d172683f86668a7d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mw-b37ed51b78d657b0a547f9a6c84b90c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mx-ea1ac5dfeb2c36ad946510b12f3b0ac1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/my-daaa5b8453de16ef4dd4a912525ea850.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/my.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mz-a7e193fc5d6063fdd5a52a56fdb65bca.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/mz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/na-4201a40281d26726f6eeba3fe854a6a1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/na.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nc-9984f0eeae7c3a4a3fcd208b9264ac66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ne-0974d3e3ca5d0743d22019f52961fdb3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ne.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/images/new-8c85abb58dcaa346fa1b8c63c8bdfbb7.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/images/new.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nf-5a6438cfca68b9e17a43fbc273940ce7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ng-4b79e44a1a49f67b634e4353f9a1052e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ni-15565a721c48ccc07561b36872785f79.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ni.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nl-fea9df2c991a53d4e59d491466812c62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/no-a25f6824f425d8c490bdb59e6f1adb7a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/np-81fa4cfce6a67169119dca1c74760936.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/np.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nr-db1d2d079301d5c80a3aeaf8ab0bbe29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nu-e818fe7654ac243948099a08acc38e38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nz-1a4ccba3cc03ebeec9dcc1498492791c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/nz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/om-d8831d5e1a95287936b0621ea483c89a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/om.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pa-85a365ca3e738a74b4b3747e6de42339.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/payment_banner-69e8ca51e5d2921732213c8677d18a4f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/payment_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/paypal-9bcc2b707f8945eb6a0818f2b62c981e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pe-551549190a4dc2c3d5dd7b88ea6201bf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pf-ebf911ef01488e5c016a1c5eeacbe5c1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pg-5f590952948baec0a763050bc1558062.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ph-20029fc0e99b3e323743799fa4824f43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ph.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pk-376863fd0abe820489ed5a882ac34b97.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pl-6c56e38afdfb6fe440879f0a8e443b25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pm-b4b6229dcba8209865e20e11bee53935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pn-028b31ef20f65ec3d97b2dd67218e485.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pr-8e4151e3557a72fb50e6f191c6aacabc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/product-30758674a12ea365cd5316bde2d017fa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/product.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/progress-861958cc96d422c029d11716c61acfa0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/progress.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ps-841cd4e90e2c5398388f05de7b54426e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pt-e219fd72cd72b4dad75276cac71d21b9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pw-7f32b61ad9933c50a64c6bf2a9625531.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/pw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/py-80a63ee2b580007a86a703e0b58da820.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/py.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/qa-576e921c41d139d0350f41e830962715.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/qa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rails-12bb8809901c53b5ade4ecdcb7071f04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/rails.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/re-4071d2bffc62f116b44f1bcadd43a78b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/re.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ro-b829e5f1831bea0e20399de1930028c9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/rs-5d29af9c954d0fba28617ae831d9bc81.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/rs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ru-3beb44fe0fe40f44312bb8b2d48ce96b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ru.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/rw-6e55939c40b295c20aac2c59b4167ae9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/rw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sa-772afb2eced7041904e40c77e7e006d0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sb-428349ad039b370bb95005d97375a84b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sc-67f46a413c839953c04d831bc2eb89a6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/scotland-680a9f909a6b58cf6eb3c5a92ff61fba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/scotland.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sd-944173b69e6f508a48c7d682d66921ed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/se-f1690bfb288d38ade7ab5a22052b1385.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/se.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2-b265cb949c085aecb8baf42b5d10c899.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2-spinner-5c0739c0223957d1ee4f0cd45ac72a1b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2-spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2x2-e2341b03e8053fa7369e8f70e2e63ad0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.formalize/select_arrow-f3082689fbac9f15ef209343f7b064bd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/select_arrow-f3082689fbac9f15ef209343f7b064bd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.formalize/select_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/select_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sg-17b8e1dc369ca15fed43559315f0b64e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sh-4d06d5498b5c4a8c62abf88344b8ef0a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/si-a5ded90c78f1f12b151bbc7425f9d421.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/si.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sj-a25f6824f425d8c490bdb59e6f1adb7a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sk-2643d57564a260077189c5fb4161c170.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sl-e5df3a69e1189404097fe0d727a54933.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sm-1863b2132f57113f1a0b9af31742c302.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/small-76ab0e7d4af5965616ff2bb7367de75b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/noimage/small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sn-786ec2628c9552ddc0963be2ac9b5e22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/so-75be716715954a833686f6757c8ea7cb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/so.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/solo-b4becbe7505a2e051da6e4f8d2d992f8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/solo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/spinner-762d85b179f92b2cfcf7207ccf0baabd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/bg/spree_50-eff18583d622cc18d3a636c8386e4304.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/logo/spree_50-eff18583d622cc18d3a636c8386e4304.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/bg/spree_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/logo/spree_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sr-c4605f4d19db970e6fa53ff742791498.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/st-1bfd525dea86b429d329596460670bb3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/st.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/style-6c8441c7df4b6abbcf90b26d6b8a8326.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/style.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sv-39fda4176915b385944e6d4093693d5c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/switch-ff03cb079b08d68fd37e65159ecd2005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sy-3cb6f771186f2ba0da79227408af5dbc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sz-75489aa94b2aa02edda074cd3b1ea121.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/sz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tc-f8dc8e5cc7f84ae369383e01af4a95a4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/td-de6dfb3e8e7f9af34f30e69f3ee4f740.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/td.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tf-8f7150de9982bb801be5ec0befd508d2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tg-f8ccea66c298f6fea9027f050a2fb1d6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/th-23bde20a44eb50cb31663a2ca595835c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/th.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/throbber-112825d6538531a356e82ef90762e04f.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/title-3f47688aabcce0fd0f0ee32c5727140c.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.alerts/images/title.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tj-45cee4073d5c96d281fa95e83eac6361.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tj.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tk-4bda23e08bbbe313015a2abe222ec06f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tl-82d08914c1b066a7db9bd5adb967d478.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tm-4574b668b88e7642c6655c9e0355b043.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tn-0340c55a93ae55b947f45a7cd86256d1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/to-14eb42aa7c9a89527a606b6ec35e8bd4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tr-0df8fc1698aa94c7945227087c746b00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tt-6e810c477e20b9aeb91d55bf4d9543e6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tv-d99b8af5467844f6a21b2e1402625db5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tw-a6695e03970abd408162417c69768453.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tz-26b103f9c0141368d096b58d07259bec.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/tz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ua-00ef90ed1ef956c160b03c8381c27cc1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ug-eba9eec66990fe38ebb9d499d06d4e27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_0_aaaaaa_40x100-15af81aa222ecabce137eb01696b43b0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_0_eeeeee_40x100-7396c7efe7123fa1a9fa1b69836b0df0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_0_eeeeee_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_55_ffffff_40x100-b46976048fd6157465ba9836e3972358.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_55_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_75_ffffff_40x100-b46976048fd6157465ba9836e3972358.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_55_fbf9ee_1x400-cd8bc44b364d137c1b6abdc91b18de2b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_65_ffffff_1x400-86fb1b7cead0245ad3784206ac012e15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_75_dadada_1x400-a827924ac133656634e992b6107cdf04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_75_e6e6e6_1x400-ba2ef411fa5bb08f5fd1afcad992505c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_95_fef1ec_1x400-dd7349b139dc95f8f1a58c3a55fd30aa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_100_f6f6f6_1x100-015badc542a5aa3b5dce80343a004b7f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_100_f6f6f6_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_25_0073ea_1x100-35f247b5c955fd2caaa94e936aed01e5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_25_0073ea_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_50_dddddd_1x100-14dfcea608fec52d5f56d1fd979ded85.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_50_dddddd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100-2af0d3b86a0df8fe38a2a0ab9228a76f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_0073ea_256x240-fdede6eef2f7bcbd95bddd5437c95784.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_0073ea_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_222222_256x240-8cc2c80ed7a5f72d9d28e070e071a11f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_2e83ff_256x240-dc454dedf653c5a789d2e55892a1db93.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_454545_256x240-24cadc72b369daeb6a0c7e22f2f387a0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_666666_256x240-a14384186c0d0058a7f1962b24042aa8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_666666_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_888888_256x240-243d78799f5b5f35c8e964c75a0742a3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_cd0a0a_256x240-d7f4ce116ed2d76d9c1c8203002f6ffb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_ff0084_256x240-8ccc645b869950768359687ecd925a27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_ff0084_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_ffffff_256x240-0b656420ca8ab23a929a90e8ae54ba8b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery-ui/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/um-4b426fd0d2b7320658358bdb6f164c38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/um.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/update-7115022032afe1e9fb79f46fca904854.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icons/update.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/us-65cc1663e5e6772b4f59fa342793490d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/us.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/uy-a42dd3bf69e44ed35ec1f03810e6c3d7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/uy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/uz-0e06cfa8480f4ef5a0deec2eebe794d3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/uz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/va-f0f3f9adb793cfc60d6513288a028153.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/va.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vc-72f31a7114a4b07071d6b0b7d5db6c40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ve-c1319bc8767be355650cb27374ec47e6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ve.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vg-0f7003932dff1a920078c6cdbe79c432.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vi-0657c7a2be1a349007f5f7100dbf0d3d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/visa-adb83c24c5ef9b078a3bd8001233e4b9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/visa_cid-47279af4649804f1155d3845b684716f.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/visa_cid.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/visaelectron-59b8fbdc43de4929aa56133dcfa628a8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/visaelectron.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vn-cfd2d42c8c1cbca482678d6029c062b7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vu-86f75801e2c129c7ba951472030a00ce.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/vu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/wales-00fcc0f44c3a7f0acae32a608f720b86.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/wales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/westernunion-7c5dacb0806b2c750072ad3bcbe221f4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/westernunion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/wf-967b3b87b90e8ca3c4830bb9f544168d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/wf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/wirecard-b123aff4dadea6da5b5cdc9138ddfacc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/wirecard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/worldpay-eb68c884ba18a1c720287bcb4136d24e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/credit_cards/icons/worldpay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ws-7609626e6c9fb56f281024e93f7fcd3f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ws.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ye-b932ada0e64f98dee0dca3223f2a1bf3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/ye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/yt-9dc1152b846524dbb4fb8ce7fde315cc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/yt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/za-a7774186cbffc246a8426efd441fe244.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/za.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/zm-40639b8d6e71a2d2fbd96f71aee7b160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/zm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/zw-2741b3e97ca42881cfdea71a7e8f3b33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/flags/zw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/address_states-bdfd957a0676a2a1af6053b35ad618da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/address_states.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all-0c3cce0be14e396d2a89a5696655045c.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all-54db21f3e0356f34d5b59c02271c1087.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all-853fef6bca8f3d3ab543f07e89dba70b.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all-dfd17eb400897b936c2593652d2872fb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/store/all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-675b45d579877c9ebc9d822b2115e34c.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-7137ba97844fb7a3be7e6d4fc236b39b.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/orders/edit_form-eeea9c0c5e0db2e7254ee777a7ac47c1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/orders/edit_form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont-6bba333deaeea4f97b76194e7d77d149.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.min-7830d6497a1cb35cc8ef23eb129c7820.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/manifest.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/images/new-8c85abb58dcaa346fa1b8c63c8bdfbb7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/admin/images/new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/style-6c8441c7df4b6abbcf90b26d6b8a8326.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/jquery.jstree/themes/apple/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spreedemo.iws" />
@@ -11,7 +708,7 @@
     <file path="/Gemfile" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375907283740" ignored="false" />
     <file path="/database.yml" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908766829" ignored="false" />
     <file path="/.ruby-gemset" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375878598878" ignored="false" />
-    <file path="/Dummy.txt" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375940647865" ignored="false" />
+    <file path="/Dummy.txt" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375941140819" ignored="false" />
     <file path="/deploy.rb" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375907638394" ignored="false" />
     <file path="/staging.rb" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375910594628" ignored="false" />
     <file path="/.gitignore" changelist="784aa8fa-4066-4fc9-bbfa-9a45a25795dc" time="1375908953975" ignored="false" />
@@ -112,6 +809,30 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="spreedemo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spreedemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spreedemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spreedemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spreedemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -418,13 +1139,18 @@
       <created>1375910610775</created>
       <updated>1375910610775</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding deploy env">
+      <created>1375940675229</created>
+      <updated>1375940675229</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="48" width="1680" height="1024" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,7 +1165,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -570,14 +1295,16 @@
         <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="30" selection-start="257" selection-end="257" vertical-scroll-proportion="0.23972602" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/staging.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="24" selection-start="678" selection-end="678" vertical-scroll-proportion="0.47945204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="138" selection-end="138" vertical-scroll-proportion="0.15410958">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/staging.rb">
