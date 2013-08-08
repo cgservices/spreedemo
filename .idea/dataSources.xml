@@ -27,7 +27,7 @@
     </data-source>
     <data-source source="LOCAL" name="Rails spreedemo: staging" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="7633d80a-1274-4968-97c5-b41bdec368bb">
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://10.0.0.216/acc_spreedemo</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1/spreedemo</jdbc-url>
       <user-name>spree</user-name>
       <user-password>dfc7df98dff2dfdcdfdadfe1dfcfdff3dfcbdfe8dfe0dfe1df93dfefdfe1df9f</user-password>
       <libraries>
